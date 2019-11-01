@@ -1,6 +1,13 @@
 language: java
+install: true
 
-install: ant deps
+os: windows
+dist: trusty
+jdk: oraclejdk12
 
-jdk:
-  - oraclejdk12
+cache:
+  directories:
+    - $HOME/.m2
+
+script:
+  - ./mvnw clean install
