@@ -1,2 +1,2 @@
-# Algorithms-Datastructures [![Build Status](https://travis-ci.com/LucJoostenNL/Algorithms-Datastructures.svg?branch=master)](https://travis-ci.com/LucJoostenNL/Algorithms-Datastructures)
+# Algorithms-Datastructures [![Build Status](https://dev.azure.com/LucJoosten1234/LucJoosten1234/_apis/build/status/LucJoostenNL.Algorithms-Datastructures?branchName=master)](https://dev.azure.com/LucJoosten1234/LucJoosten1234/_build/latest?definitionId=2&branchName=master)
 This repository contains algorithms and datastructures in Java. For this subject I needed to develop several Algorithms with different datastructures. Some of them are recursive, others are iterative
